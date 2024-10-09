@@ -1,0 +1,8 @@
+.service-header-container{
+    text-align: center;
+    padding: 20px;
+    margin-top: 70px;
+    color:rgb(245, 58, 58);
+    background-color: pink;
+    font-size: 2em;
+}
